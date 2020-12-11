@@ -1,0 +1,19 @@
+
+
+.posttitle h1 {
+  position: relative;
+  bottom: 10%;
+  left: 3%;
+}
+
+.posttitle  {
+  background-color: black;
+  position: relative;
+  top: 40%;
+  left: 37%;
+  width: 25%;
+  height: 10% !important;
+  border: 2px solid black;
+  border-radius: 100px;
+
+}
